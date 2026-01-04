@@ -2,12 +2,6 @@
 
 This repository contains starter code for Portfolio Website in ReactJS. <br />
 
-View Demo👇: <br />
-https://react-portfolio-sigma.vercel.app/ <br />
-
-If you want to learn how to create it please follow below tutorial👇: <br />
-
-https://youtu.be/jcohAIaSy2M <br />
 
 ----------------------------------------------------------------------------------------------
 ### NOTE: 
@@ -19,17 +13,6 @@ If you're using NodeJS 17+ versions then you have to edit below line in package.
 Just add --openssl-legacy-provider like this👇 <br />
 "start": "react-scripts --openssl-legacy-provider start", <br />
 
-
-### Images of The Portfolio Website:
-![HOME](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Home.png)
-![Intro](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Intro.png)
-![Blog](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Blog.png)
-![Home Mobile](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Home-Mobile.png)
-![Intro Mobile](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Intro-Mobile.png)
-![Intro Blog](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Blog-Mobile.png)
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
